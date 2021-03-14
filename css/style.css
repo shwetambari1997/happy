@@ -1,0 +1,69 @@
+
+
+
+.papa{
+
+
+  padding-bottom: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+
+}
+.B{
+
+  padding-left: 450px;
+  padding-top: 20px;
+}
+h1{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+   font-size: 2.5rem;
+   margin: 10px;
+   z-index: 1;
+   opacity: 0.9;
+
+}
+h2{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+   font-size: 1.8rem;
+   margin: 10px;
+   z-index: 1;
+
+   opacity: 0.9;
+}
+h3{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+   font-size: 1.5rem;
+   margin: 10px;
+   z-index: 1;
+   opacity: 0.9;
+}
+.two{
+  padding-left: 80px;
+}
+.three
+{
+    padding-left: 100px;
+
+}
+.one
+{
+    padding-left: 50px;
+}
+.fir{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
+#wholepage{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
